@@ -1,5 +1,7 @@
 # Test report automation: from PDF lab reports to a checked Excel summary
 
+[![Tests](https://github.com/sebastiano-golinelli/test-report-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/sebastiano-golinelli/test-report-automation/actions/workflows/tests.yml)
+
 A Python tool that reads tensile-test reports in PDF from different laboratories, normalizes units and
 formats, checks every value, compares each specimen with its material specification and writes an
 Excel report with a summary, all results, a list of issues to review and a chart.
