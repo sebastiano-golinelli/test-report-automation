@@ -1,0 +1,119 @@
+[
+  {
+    "file": "alpha_AL-001.pdf",
+    "id": "AL-001",
+    "material": "Al 6061-T6",
+    "yield_mpa": 276,
+    "uts_mpa": 311,
+    "elongation_pct": 12.4,
+    "test_date": "2026-09-14"
+  },
+  {
+    "file": "alpha_AL-002.pdf",
+    "id": "AL-002",
+    "material": "Al 6061-T6",
+    "yield_mpa": 281,
+    "uts_mpa": 316,
+    "elongation_pct": 11.8,
+    "test_date": "2026-09-14"
+  },
+  {
+    "file": "alpha_AL-003.pdf",
+    "id": "AL-003",
+    "material": "Al 6061-T6",
+    "yield_mpa": 262,
+    "uts_mpa": 294,
+    "elongation_pct": 6.5,
+    "test_date": "2026-09-15"
+  },
+  {
+    "file": "alpha_ST-101.pdf",
+    "id": "ST-101",
+    "material": "S355JR",
+    "yield_mpa": 381,
+    "uts_mpa": 528,
+    "elongation_pct": 26.0,
+    "test_date": "2026-09-16"
+  },
+  {
+    "file": "alpha_ST-102.pdf",
+    "id": "ST-102",
+    "material": "S355JR",
+    "yield_mpa": 372,
+    "uts_mpa": 515,
+    "elongation_pct": 24.5,
+    "test_date": "2026-09-16"
+  },
+  {
+    "file": "alpha_ST-101_resubmitted.pdf",
+    "id": "ST-101",
+    "material": "S355JR",
+    "yield_mpa": 381,
+    "uts_mpa": 528,
+    "elongation_pct": 26.0,
+    "test_date": "2026-09-23"
+  },
+  {
+    "file": "beta_AL-004.pdf",
+    "id": "AL-004",
+    "material": "Al 6061-T6",
+    "yield_mpa": 277.2,
+    "uts_mpa": 311.0,
+    "elongation_pct": 12.0,
+    "test_date": "2026-09-18"
+  },
+  {
+    "file": "beta_ST-103.pdf",
+    "id": "ST-103",
+    "material": "S355JR",
+    "yield_mpa": 372.3,
+    "uts_mpa": 526.1,
+    "elongation_pct": null,
+    "test_date": "2026-09-18"
+  },
+  {
+    "file": "beta_TI-201.pdf",
+    "id": "TI-201",
+    "material": "Ti-6Al-4V",
+    "yield_mpa": 920.5,
+    "uts_mpa": 986.0,
+    "elongation_pct": 14.0,
+    "test_date": "2026-09-21"
+  },
+  {
+    "file": "beta_TI-202.pdf",
+    "id": "TI-202",
+    "material": "Ti-6Al-4V",
+    "yield_mpa": 1003.9,
+    "uts_mpa": 959.8,
+    "elongation_pct": 13.0,
+    "test_date": "2026-09-21"
+  },
+  {
+    "file": "gamma_TI-203.pdf",
+    "id": "TI-203",
+    "material": "Ti-6Al-4V",
+    "yield_mpa": 905,
+    "uts_mpa": 968,
+    "elongation_pct": 13.5,
+    "test_date": "2026-10-03"
+  },
+  {
+    "file": "gamma_ST-104.pdf",
+    "id": "ST-104",
+    "material": "S355JR",
+    "yield_mpa": 366,
+    "uts_mpa": 502,
+    "elongation_pct": 25.0,
+    "test_date": "2026-10-03"
+  },
+  {
+    "file": "gamma_AL-005.pdf",
+    "id": "AL-005",
+    "material": "Al 6061-T6",
+    "yield_mpa": 288,
+    "uts_mpa": 322,
+    "elongation_pct": 10.9,
+    "test_date": "2026-10-06"
+  }
+]
